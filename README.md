@@ -8,11 +8,32 @@ A simple Power BI dashboard is built to analyze the sales for three main product
 Only a single CSV file is involved and is obtained from Kaggle (https://www.kaggle.com/datasets/abiodunonadeji/united-state-superstore-sales)
 
 ## Understanding of Data
+Order ID- Customer Unique Id
+Order Date- Date of order of product from the store
+Ship Date- Date the product was shipped
+Ship Mode- Shipping mode of product purchased by customer
+Customer ID- Each customer unique id
+Customer Name- Name of customer that order a product
+Segment- Customer Segment
+Country- Customer residence Country
+City - Customer residence City
+State- Customer residence State
+Postal Code- Customer postal code
+Region- Region of the Country where the Customer Reside
+Product ID- Unique Product Identify
+Category- Product Category in the store
+Sub-Category- Product Subcategory in the Store
+Product Name - Name of each product in the store
+Sales- Sales of the product
+Quantity- Quantity of product sold
+Discount- Discount giving to customer
+Profit- Profit/Loss incurred
 
 ## Aim
-The aim of this Power BI dashboard is to understand the sales of video games and how it changes throughout the years as technologies improves.
+The aim of developing this Power BI dashboard is to understand and analyse the trend of sales of different products throughout the years.
 
 ## Objectives
+Here are some questions to be answered in this report:
 1. Understand how the sales in NA, EU and JP compared to total Global sales and how much sales does each region contributes to the Global sales.
 2. Determining the best/worst selling games, platforms and genres globally.
 3. Determining the best selling games, platforms and genres in each region.
