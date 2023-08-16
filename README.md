@@ -53,7 +53,7 @@ The aim of developing this Power BI dashboard is to understand and analyse the t
 
 ## Objectives
 Here are some questions to be answered in this report:
-1. Build a KPI Banner that shows total sales, profit, quantity sold and profit margin.
+1. Build a KPI Banner that shows total sales, profit, quantity sold, discount given and profit margin.
 2. Determine which state has the highest sales.
 3. Determine the top 5 and bottom 5 products by sales thoughout the years.
 4. Build a KPI Banner that shows YTD related information including sales, profit, quantity sold and profit margin.
