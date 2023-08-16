@@ -58,7 +58,8 @@ Here are some questions to be answered in this report:
 3. Determine the top 5 and bottom 5 products by sales thoughout the years.
 4. Build a KPI Banner that shows YTD related information including sales, profit, quantity sold and profit margin.
 5. Determine sales and profit performances by product category and sub-category.
-6. Determine YoY sales growth and profit margin trend for different customer categories.
+6. Determine YoY Sales growth and profit margin trend for different customer categories.
+7. Determine YTD Sales by shipping type to get the best shipping type percentage.
 
 ## Dashboard Preview
 ![vg](https://github.com/clifford96/power-bi-vganalysis/assets/51234378/412f8d5c-1a95-473e-bc7f-a8926b24dcb3)
