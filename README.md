@@ -34,9 +34,10 @@ The aim of developing this Power BI dashboard is to understand and analyse the t
 
 ## Objectives
 Here are some questions to be answered in this report:
-1. Understand how the sales in NA, EU and JP compared to total Global sales and how much sales does each region contributes to the Global sales.
-2. Determining the best/worst selling games, platforms and genres globally.
-3. Determining the best selling games, platforms and genres in each region.
+1. Build a KPI Banner that shows total sales, profit, quantity sold and profit margin.
+2. Determine which state has the highest sales.
+3. Determine the top 5 and bottom 5 products by sales thoughout the years.
+4. Build a KPI Banner that shows YTD related information including sales, profit, quantity sold and profit margin.
 
 ## Dashboard Preview
 ![vg](https://github.com/clifford96/power-bi-vganalysis/assets/51234378/412f8d5c-1a95-473e-bc7f-a8926b24dcb3)
