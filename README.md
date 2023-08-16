@@ -9,9 +9,13 @@ Only a single CSV file is involved and is obtained from Kaggle (https://www.kagg
 
 ## Understanding of Data
 Order ID- Customer Unique Id
+
 Order Date- Date of order of product from the store
+
 Ship Date- Date the product was shipped
+
 Ship Mode- Shipping mode of product purchased by customer
+
 Customer ID- Each customer unique id
 Customer Name- Name of customer that order a product
 Segment- Customer Segment
