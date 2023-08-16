@@ -17,20 +17,35 @@ Ship Date- Date the product was shipped
 Ship Mode- Shipping mode of product purchased by customer
 
 Customer ID- Each customer unique id
+
 Customer Name- Name of customer that order a product
+
 Segment- Customer Segment
+
 Country- Customer residence Country
+
 City - Customer residence City
+
 State- Customer residence State
+
 Postal Code- Customer postal code
-Region- Region of the Country where the Customer Reside
+
+Region- Region of the Country where the Customer Resident
+
 Product ID- Unique Product Identify
+
 Category- Product Category in the store
+
 Sub-Category- Product Subcategory in the Store
+
 Product Name - Name of each product in the store
+
 Sales- Sales of the product
+
 Quantity- Quantity of product sold
+
 Discount- Discount giving to customer
+
 Profit- Profit/Loss incurred
 
 ## Aim
@@ -43,6 +58,7 @@ Here are some questions to be answered in this report:
 3. Determine the top 5 and bottom 5 products by sales thoughout the years.
 4. Build a KPI Banner that shows YTD related information including sales, profit, quantity sold and profit margin.
 5. Determine sales and profit performances by product category and sub-category.
+6. Determine YoY sales growth and profit margin trend for different customer categories.
 
 ## Dashboard Preview
 ![vg](https://github.com/clifford96/power-bi-vganalysis/assets/51234378/412f8d5c-1a95-473e-bc7f-a8926b24dcb3)
