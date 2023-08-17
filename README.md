@@ -53,18 +53,20 @@ The aim of developing this Power BI dashboard is to understand and analyse the t
 
 ## Objectives
 Here are some questions to be answered in this report:
-1. Build a KPI Banner that shows total sales, profit, quantity sold, discount given and profit margin.
-2. Determine which state has the highest sales.
-3. Determine the top 5 and bottom 5 products by sales thoughout the years.
+1. Build a KPI Banner that shows total sales, profit, quantity sold, discount given and profit margin throughout these 4 years.
+2. Determine which state and city has the highest total sales.
+3. Determine sales and profit performances by segment, product category and sub-category.
 4. Build a KPI Banner that shows YTD related information including sales, profit, quantity sold and profit margin.
-5. Determine sales and profit performances by product category and sub-category.
+5.Determine the top 5 and bottom 5 products by sales thoughout the years.
 6. Determine YoY Sales growth and profit margin trend for different customer categories.
 7. Determine YTD Sales by shipping type to get the best shipping type percentage.
 
 ## Dashboard Preview
 
 ## Key Deliverables
-1. 
+1. From years 2014 to 2017, the total sales is $720.4k while the total profit is only $18.45k with total 8028 quantity sold. An average discount of 17.29% has been given. It can be calculated that the profit-to-sales ratio is only around 0.0248, indicating that the superstore earns 2.48 cents with every dollar in sales. Overall, there is a low level of profitability.
+2. In these 4 years, the superstores located in California, specifically Los Angeles, have the highest total sales.
+3. 
 
 ## Tools
 1. Microsoft Power BI (Dashboard, Power Query, DAX)
