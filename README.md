@@ -62,7 +62,7 @@ Here are some questions to be answered in this report:
 7. Determine YTD Sales by shipping type to get the best shipping type percentage.
    
 ## Dashboard Preview
-![superstore](https://github.com/Hui-Sze/sales-powerbi-report/assets/52185276/ba7c0088-a0bb-4509-979f-b5aa6e11e9aa)
+![superstore](https://github.com/Hui-Sze/sales-powerbi-report/assets/52185276/065cad3d-b641-4e84-a3d3-00c8d8d2e2d5)
 
 ## Key Deliverables
 1. From years 2014 to 2017, the total sales is $2.3M while the total profit is only $286.4k with total 37.9k quantity sold. An average discount of 15.62% has been given. It can be calculated that the profit-to-sales ratio is only around 0.1245, indicating that the superstore earns 12.45 cents with every dollar in sales. Overall, there is a low level of profitability.
