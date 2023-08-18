@@ -57,18 +57,22 @@ Here are some questions to be answered in this report:
 2. Determine which state and city has the highest total sales.
 3. Determine sales and profit performances by segment, product category and sub-category.
 4. Build a KPI Banner that shows YTD related information including sales, profit, quantity sold and profit margin.
-5.Determine the top 5 and bottom 5 products by sales thoughout the years.
+5.Determine the top 5 and bottom 5 products by YTD sales.
 6. Determine YoY Sales growth and profit margin trend for different customer categories.
 7. Determine YTD Sales by shipping type to get the best shipping type percentage.
-
+   
 ## Dashboard Preview
 
 ## Key Deliverables
-1. From years 2014 to 2017, the total sales is $720.4k while the total profit is only $18.45k with total 8028 quantity sold. An average discount of 17.29% has been given. It can be calculated that the profit-to-sales ratio is only around 0.0248, indicating that the superstore earns 2.48 cents with every dollar in sales. Overall, there is a low level of profitability.
+1. From years 2014 to 2017, the total sales is $2.3M while the total profit is only $286.4k with total 37.9k quantity sold. An average discount of 15.62% has been given. It can be calculated that the profit-to-sales ratio is only around 0.1245, indicating that the superstore earns 12.45 cents with every dollar in sales. Overall, there is a low level of profitability.
 2. In these 4 years, the superstores located in California, specifically Los Angeles, have the highest total sales.
 3. From a customer segment perspective, the consumer segment contributes to a higher level of sales, followed by the corporate segment, where the home office contributes to the least sales.
-4. The YTD KPI Banner is created to as compared to the previous few years. 
-
+4. The YTD KPI Banner is created to evaluate the performance of the business in year 2017 as compared to the previous year. YTD sales amount to $733k, showing a noteworthy 20.36% increase from the previous year. Furthermore, the YTD profit saw a 14.24% increase, driven by the sale of 12.5k units of the product. However, the YTD profit margin experienced a decline of 5.09%.
+5. The top 5 products contributing the most to YTD sales are: Canon imageCLASS 2200 Advanced Copier, Martin Yale Chadless Opener Electric Letter Opener, GBC DocuBind TL300 Electric Binding System, Hewlett Packard LaserJet 3310 Copier, and Samsung Galaxy Mega 6.3.
+6. The bottom 5 products contribute the least to sales, with values of only $1 and $2.
+7. The YoY Sales growth and profit margin for different customer categories all show a positive trend. A positive YoY sales growth suggests that the business is increasing its revenue over time while a positive profit margin trend means that the business is efficiently managing its costs and expenses relative to its sales.
+8. In the year 2017, the shipping type that contributes the most to YTD sales is the standard class, accounting for 52.96% of total sales.
+   
 ## Tools
 1. Microsoft Power BI (Dashboard, Power Query, DAX)
 2. Microsoft Excel
