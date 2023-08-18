@@ -66,7 +66,8 @@ Here are some questions to be answered in this report:
 ## Key Deliverables
 1. From years 2014 to 2017, the total sales is $720.4k while the total profit is only $18.45k with total 8028 quantity sold. An average discount of 17.29% has been given. It can be calculated that the profit-to-sales ratio is only around 0.0248, indicating that the superstore earns 2.48 cents with every dollar in sales. Overall, there is a low level of profitability.
 2. In these 4 years, the superstores located in California, specifically Los Angeles, have the highest total sales.
-3. 
+3. From a customer segment perspective, the consumer segment contributes to a higher level of sales, followed by the corporate segment, where the home office contributes to the least sales.
+4. The YTD KPI Banner is created to as compared to the previous few years. 
 
 ## Tools
 1. Microsoft Power BI (Dashboard, Power Query, DAX)
